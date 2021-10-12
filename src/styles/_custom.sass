@@ -1,0 +1,58 @@
+.banner-principal__img
+  img
+    animation: float 6s ease-in-out infinite
+
+@keyframes float
+  0%
+    transform: translatey(0px)
+  50%
+    transform: translatey(-20px)
+  100%
+    transform: translatey(0px)
+  
+.banner-principal__img img
+  width: 80%
+  max-width: 80%
+  margin-left: auto
+
+.bloque-texto-a.color-acento-contenido, .tabla.acento-botones 
+  background-color: #E5DEC1
+
+.bloque-texto-a.color-primario
+  background-color: #F7F5ED
+  &::before
+    background-color:#B2B555
+    
+.tarjeta.color-primario
+  background-color: #B2B555
+  border-radius: 0px
+
+.tarjeta.color-primario * 
+  color: #000
+  
+.tarjeta.color-acento-botones, .tarjeta.color-acento-contenido
+  border-radius: 0px
+
+.tarjeta.color-gris
+  background-color: #F8F8F7
+  border-radius: 0px
+
+.tarjeta.color-jade
+  background-color: #F4FAFF !important
+  border-color: #B2B555
+  border: outset
+  border-radius: 10px
+
+.tarjeta.color-lima
+  background-color: #F7F5ED
+  border-radius: 0px
+
+.tarjeta.color-sky
+  background-color: #EBF6FF
+  border-radius: 10px
+
+.cajon.color-primario
+  background-color: #F4F3F0    
+
+.etiqueta
+  background-color: #E2DCC7

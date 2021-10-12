@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274" height="315" viewBox="0 0 274 315">
+  <g id="Grupo_78317" data-name="Grupo 78317" transform="translate(-663 -1561)">
+    <rect id="Rectángulo_8138" data-name="Rectángulo 8138" width="217" height="70" rx="10" transform="translate(683 1806)" fill="#fff"/>
+    <text id="Rentabilidad" transform="translate(724 1829)" fill="#636363" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="16.396" y="19">Rentabilidad</tspan></text>
+    <g id="Grupo_78311" data-name="Grupo 78311">
+      <rect id="Rectángulo_8132" data-name="Rectángulo 8132" width="274" height="115" rx="10" transform="translate(663 1561)" fill="#529ad9"/>
+      <text id="MERCHANDISING_DE_GESTIÓN_" data-name="MERCHANDISING 
+DE GESTIÓN " transform="translate(800 1606)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-75.133" y="0">MERCHANDISING </tspan><tspan x="-53.064" y="25">DE GESTIÓN </tspan></text>
+      <g id="Rectángulo_8135" data-name="Rectángulo 8135" transform="translate(692 1658)" fill="#aed5f7" stroke="#fff" stroke-width="3">
+        <rect width="217" height="115" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="214" height="112" rx="8.5" fill="none"/>
+      </g>
+      <text id="Exterior_Punto_de_venta_Distribuidor_" data-name="Exterior
+Punto de venta 
+Distribuidor
+" transform="translate(733 1676)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="36.809" y="19">Exterior</tspan><tspan x="7.682" y="44">Punto de venta </tspan><tspan x="21.155" y="69">Distribuidor</tspan></text>
+      <path id="flecha-correcta" d="M28.761,30.956a5.252,5.252,0,0,0-7.428,7.428l7.305,7.308H5.009a5.009,5.009,0,0,0,0,10.018h23.63l-7.305,7.305a5.252,5.252,0,0,0,7.428,7.428L47.8,51.408a1,1,0,0,0,0-1.417Z" transform="translate(842.199 1767) rotate(90)" fill="#529ad9"/>
+    </g>
+  </g>
+</svg>
