@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="629.099" height="390.406" viewBox="0 0 629.099 390.406">
+  <g id="Grupo_78306" data-name="Grupo 78306" transform="translate(-485 -2344.553)">
+    <path id="Trazado_131133" data-name="Trazado 131133" d="M0,0H629.1V390.406H0Z" transform="translate(485 2344.553)" fill="#f7f5ed"/>
+    <text id="Departamentos" transform="translate(714 2395.787)" fill="#585858" font-size="25" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Departamentos</tspan></text>
+    <text id="Secciones" transform="translate(742 2460.914)" fill="#585858" font-size="25" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Secciones</tspan></text>
+    <text id="Categorías_de_Producto" data-name="Categorías de Producto" transform="translate(668 2514.356)" fill="#585858" font-size="25" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Categorías de Producto</tspan></text>
+    <text id="Familias" transform="translate(753 2570.949)" fill="#585858" font-size="25" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Familias</tspan></text>
+    <text id="Subfamilias" transform="translate(734 2624.199)" fill="#585858" font-size="25" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Subfamilias</tspan></text>
+    <text id="Referencias" transform="translate(734 2679.121)" fill="#585858" font-size="25" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Referencias</tspan></text>
+    <path id="Trazado_131128" data-name="Trazado 131128" d="M-7056-9213.684h431.734" transform="translate(7640.5 11641.787)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    <path id="Trazado_131129" data-name="Trazado 131129" d="M-7056-9213.684h372.16" transform="translate(7669.5 11691.724)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    <path id="Trazado_131130" data-name="Trazado 131130" d="M-7056-9213.684h239.66" transform="translate(7736.5 11749.672)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    <g id="avance-rapido" transform="translate(860.136 2419.748) rotate(90)">
+      <path id="Trazado_131127" data-name="Trazado 131127" d="M14.5,57.792,5.659,48.951A3.315,3.315,0,1,0,.971,53.639l6.5,6.5-6.5,6.5a3.315,3.315,0,0,0,4.688,4.69L14.5,62.482A3.32,3.32,0,0,0,14.5,57.792Z" transform="translate(0 0)" fill="#6f7302"/>
+    </g>
+    <g id="avance-rapido-2" data-name="avance-rapido" transform="translate(860.136 2470.203) rotate(90)">
+      <path id="Trazado_131127-2" data-name="Trazado 131127" d="M14.5,57.792,5.659,48.951A3.315,3.315,0,1,0,.971,53.639l6.5,6.5-6.5,6.5a3.315,3.315,0,0,0,4.688,4.69L14.5,62.482A3.32,3.32,0,0,0,14.5,57.792Z" transform="translate(0 0)" fill="#6f7302"/>
+    </g>
+    <g id="avance-rapido-3" data-name="avance-rapido" transform="translate(860.136 2527.646) rotate(90)">
+      <path id="Trazado_131127-3" data-name="Trazado 131127" d="M14.5,57.792,5.659,48.951A3.315,3.315,0,1,0,.971,53.639l6.5,6.5-6.5,6.5a3.315,3.315,0,0,0,4.688,4.69L14.5,62.482A3.32,3.32,0,0,0,14.5,57.792Z" transform="translate(0 0)" fill="#6f7302"/>
+    </g>
+    <path id="Trazado_131134" data-name="Trazado 131134" d="M-7056-9213.684h167.16" transform="translate(7772.5 11803.922)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    <g id="avance-rapido-4" data-name="avance-rapido" transform="translate(860.136 2581.504) rotate(90)">
+      <path id="Trazado_131127-4" data-name="Trazado 131127" d="M14.5,57.792,5.659,48.951A3.315,3.315,0,1,0,.971,53.639l6.5,6.5-6.5,6.5a3.315,3.315,0,0,0,4.688,4.69L14.5,62.482A3.32,3.32,0,0,0,14.5,57.792Z" transform="translate(0 0)" fill="#6f7302"/>
+    </g>
+    <path id="Trazado_131135" data-name="Trazado 131135" d="M-7056-9213.684h86.707" transform="translate(7812.5 11858.844)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    <g id="avance-rapido-5" data-name="avance-rapido" transform="translate(860.136 2636.488) rotate(90)">
+      <path id="Trazado_131127-5" data-name="Trazado 131127" d="M14.5,57.792,5.659,48.951A3.315,3.315,0,1,0,.971,53.639l6.5,6.5-6.5,6.5a3.315,3.315,0,0,0,4.688,4.69L14.5,62.482A3.32,3.32,0,0,0,14.5,57.792Z" transform="translate(0 0)" fill="#6f7302"/>
+    </g>
+    <path id="Trazado_131136" data-name="Trazado 131136" d="M-7056-9213.684h43.471" transform="translate(7834.5 11910.094)" fill="none" stroke="#afafaf" stroke-width="1"/>
+  </g>
+</svg>
