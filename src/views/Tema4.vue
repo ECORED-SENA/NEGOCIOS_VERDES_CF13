@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Merchandising
+      h1 #[i Merchandising]
 
     p.mb-4 Cuando se habla de #[i merchandising], en su significado, se encuentra mercancía o mercadería, “el producto en acción”; su función principal es que el consumidor pase de compras potenciales a compras reales.
 
@@ -60,7 +60,7 @@
               .row.justify-content-center.mb-4
                 .col-9.p-4
                   img(src='@/assets/curso/tema4/img08.png')
-              p Es donde el distribuidor enseña su punto de venta de una forma original y atractiva al consumidor. Un punto a favor con este tipo de merchandising es la importancia de la relación con el cliente.      
+              p Es donde el distribuidor enseña su punto de venta de una forma original y atractiva al consumidor. Un punto a favor con este tipo de #[i merchandising] es la importancia de la relación con el cliente.      
             .tarjeta.color-jade.p-3(x="85%" y="87%")
               .row.justify-content-center.mb-4
                 .col-9.p-4
@@ -144,9 +144,9 @@
     p.mb-4 Cada producto debe tener una relación de acuerdo con la participación del mercado. Por ejemplo, si se tiene un 30 % en la participación, el producto debería tener el 30% en la exhibición. No se debe olvidar que el consumidor es el principal objetivo y que, de 10 productos exhibidos, este compra 7 productos por impulso. (Gianella, 2013)
 
     #t_4_7.titulo-segundo(data-aos="fade-right")
-      .h3 4.7 Software de gestión
+      .h3 4.7 #[i Software] de gestión
 
-    p.mb-4 Es una herramienta para controlar y organizar la producción de una empresa, ayuda a los administradores a conservar la información importante de cada operación que se hace en el transcurso del día. En el software de gestión de punto de venta, se puede instalar de dos formas:
+    p.mb-4 Es una herramienta para controlar y organizar la producción de una empresa, ayuda a los administradores a conservar la información importante de cada operación que se hace en el transcurso del día. En el #[i software] de gestión de punto de venta, se puede instalar de dos formas:
 
     .row.justify-content-center.mb-4
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
@@ -155,7 +155,7 @@
             .col-lg-4.mb-4.mb-lg-0
               img(src='@/assets/curso/tema4/img15.svg')
           .h4.text-white.text-center Instalación local
-          p.text-white Esta corresponde a cuando se instala en equipos físicos de una empresa, la cual debe adquirir unas licencias para poder tener el funcionamiento del software.
+          p.text-white Esta corresponde a cuando se instala en equipos físicos de una empresa, la cual debe adquirir unas licencias para poder tener el funcionamiento del #[i software].
       .col-lg-5.mb-0(data-aos="fade-left")
         .tarjeta.color-acento-botones.p-4
           .row.justify-content-center.mb-4
@@ -165,7 +165,7 @@
           p Esta se hace a través de acceso a Internet, donde la empresa maneja la información en la nube.
           br
 
-    .h4.mb-4 Beneficios del software del punto de venta
+    .h4.mb-4 Beneficios del #[i software] del punto de venta
     
     .tarjeta.color-lima.p-4
       .row.align-items-center

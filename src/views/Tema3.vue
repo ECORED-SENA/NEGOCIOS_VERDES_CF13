@@ -15,7 +15,7 @@
         img(src='@/assets/curso/tema3/img01.png')(data-aos="fade-right")
       .col-lg-5.mb-0
         .tabla.acento-botones.p-4(data-aos="fade-left")
-          p Es el conjunto de técnicas de atracción al cliente mediante la adecuada distribución de secciones, la adaptación permanente del surtido y la exposición apropiada de los productos, con el fin de incrementar la rentabilidad, con una mayor rotación de inventario y una mejor imagen comercializadora. (Pinzón, 2003)
+          p La efectividad de la exhibición se mide por la calidad de los productos, el impulso en las ventas y los diferentes precios frente a la competencia.
 
 </template>
 

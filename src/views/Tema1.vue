@@ -18,21 +18,21 @@
     .row.mb-4
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-primario.p-4
-          .h4.text-center Punto de venta físico inmóvil.
+          .h4.text-center Punto de venta físico inmóvil
         img(src='@/assets/curso/tema1/img01.png')(data-aos="fade-right")
         .tarjeta.color-acento-botones.p-4
           p Una tienda, un local comercial.
           br             
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.color-primario.p-4
-          .h4.text-center Punto de venta físico móvil.
+          .h4.text-center Punto de venta físico móvil
         img(src='@/assets/curso/tema1/img02.png')
         .tarjeta.color-acento-botones.p-4
           p Un camión, una furgoneta, o vehículo. 
           br      
       .col-lg-4.mb-0
         .tarjeta.color-primario.p-4
-          .h4.text-center Punto de venta autoservicio.
+          .h4.text-center Punto de venta autoservicio
         img(src='@/assets/curso/tema1/img03.png')(data-aos="fade-left")
         .tarjeta.color-acento-botones.p-4
           p Una máquina de vending o máquina expendedora.
@@ -41,7 +41,7 @@
     #t_1_2.titulo-segundo(data-aos="fade-right")
       .h3 1.2	Punto de venta virtual
     
-    p.mb-4 Es aquel punto de venta que no es físico, que se encuentra en Internet. Es el caso del comercio online, con los #[i ecommerce]. Aquí es posible diferenciar dos tipos, que se ven a continuación:
+    p.mb-4 Es aquel punto de venta que no es físico, que se encuentra en Internet. Es el caso del comercio #[i online], con los #[i ecommerce]. Aquí es posible diferenciar dos tipos, que se ven a continuación:
 
     .row.mb-4
       .col-lg-4.mb-4.mb-lg-0
@@ -49,13 +49,13 @@
           .h4.text-center Punto de venta virtual propio 
         img(src='@/assets/curso/tema1/img04.png')(data-aos="fade-right")
         .tarjeta.color-acento-botones.p-4
-          p es un punto de venta propio, desde un portal #[i web].
+          p Es un punto de venta propio, desde un portal #[i web].
       .col-lg-8.mb-4.mb-lg-0
         .tarjeta.color-primario.p-4
-          .h4.text-center Marketplace 
+          .h4.text-center #[i Marketplace]
         img(src='@/assets/curso/tema1/img05.png')(data-aos="fade-left")
         .tarjeta.color-acento-botones.p-4
-          p es un sitio de comercio electrónico que conecta a los vendedores con los compradores. A menudo se le conoce como un mercado electrónico y todas las transacciones son administradas por el propietario del sitio web. Las empresas utilizan los mercados en línea para llegar a los clientes que desean comprar sus productos y servicios. Ejemplos de mercados en línea incluyen Amazon, eBay o Mercadolibre.
+          p Es un sitio de comercio electrónico que conecta a los vendedores con los compradores. A menudo se le conoce como un mercado electrónico y todas las transacciones son administradas por el propietario del sitio #[i web]. Las empresas utilizan los mercados en línea para llegar a los clientes que desean comprar sus productos y servicios. Ejemplos de mercados en línea incluyen Amazon, eBay o Mercadolibre.
 </template>
 
 <script>

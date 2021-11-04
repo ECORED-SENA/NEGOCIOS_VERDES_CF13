@@ -10,7 +10,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nbC4H5MRNDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
     #t_2_1.titulo-segundo(data-aos="fade-right")
@@ -20,7 +20,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 1
-      span Participación de mercado 
+      span #[i La gestión del surtido]
     .row.justify-content-center.mb-4
       .col-lg-8
         figure

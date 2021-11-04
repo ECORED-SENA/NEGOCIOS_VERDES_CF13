@@ -10,7 +10,7 @@
     
     p.mb-4 El #[i endomarketing] son  
       span.etiqueta #[strong estrategias, acciones enfocadas en las relaciones y bienestar o motivación de los trabajadores] 
-      | de la empresa para obtener buenos resultados y, con esto, tener unos clientes satisfechos. Siempre se ha dicho que el marketing se ha posicionado como un sinónimo de objetivos enfocados solamente en los clientes finales, impulsándolos a tomar las decisiones para lograr la compra, y en las preferencias del consumidor por la empresa o marca. Se puede decir que el #[i endomarketing] es hacer “marketing interno”, ya que al motivar e informar a los empleados de la empresa, se tendrán mejores resultados y se alcanzarán los objetivos propuestos. (Caridad et al, 2017).
+      | de la empresa para obtener buenos resultados y, con esto, tener unos clientes satisfechos. Siempre se ha dicho que el #[i marketing] se ha posicionado como un sinónimo de objetivos enfocados solamente en los clientes finales, impulsándolos a tomar las decisiones para lograr la compra, y en las preferencias del consumidor por la empresa o marca. Se puede decir que el #[i endomarketing] es hacer “#[i marketing] interno”, ya que al motivar e informar a los empleados de la empresa, se tendrán mejores resultados y se alcanzarán los objetivos propuestos. (Caridad et al, 2017).
 
     .row.align-items-center.mb-4
       .col-lg-6.mb-4.mb-lg-0
